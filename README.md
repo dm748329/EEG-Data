@@ -38,3 +38,6 @@ By the end of this chapter, you should be able to:
 - Convert processed EEG data from MNE-Python to a pandas DataFrame
 
 - Plot averaged EEG data using Seaborn
+
+## Codespaces
+To work in a codespace, click on the green **<> Code** button at the top right of this repository’s GitHub page. Then click on the green button that says **Create codespace on main** to launch your codespace.
